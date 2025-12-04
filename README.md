@@ -5,4 +5,8 @@ Hello from my local cumputer!
 =======
 This is a third attempt.
 >>>>>>> d35c58c617f71e3353361d2e1cf0993e4bdf23fd
+<<<<<<< HEAD
 fuck yuoooo boy
+=======
+This is forth attempt to this file
+>>>>>>> ed5767c1698d74531bc4356ed749030c6572fd42
